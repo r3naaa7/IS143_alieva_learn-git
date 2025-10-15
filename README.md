@@ -1,1 +1,1 @@
-"Glavnyi proekt (veersia iz feature)" 
+"Главный проект (версия из feature)" 
