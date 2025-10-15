@@ -1,2 +1,1 @@
-"#moi pervi proekt" 
-opisanie proekta budet zdes
+"Glavnyi proekt (veersia iz feature)" 
