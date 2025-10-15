@@ -1,2 +1,1 @@
-"#moi pervi proekt" 
-opisanie proekta budet zdes
+"Главный проект (версия из main)" 
